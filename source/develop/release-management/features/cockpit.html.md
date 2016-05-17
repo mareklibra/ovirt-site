@@ -62,9 +62,9 @@ The plugin is not meant as full replacement of UI. Just selected functionality s
 
 
 ### Recent Status
-Please see issue tracker [2] for more details about recent issues and planed enhancements.
+Please see issue tracker for more details about recent issues and planed enhancements.
 
-Initial implementation is on github.
+git clone gerrit.ovirt.org:cockpit-ovirt
 
 ### Action Items
 Initial implementation with basic functionality is recently on github [1].
@@ -138,9 +138,7 @@ The plugin is composed of
 Refer the plugin's README file for install instructions.
 
 ## External links
-* [The plugin on github](https://github.com/mareklibra/cockpit-ovirt)
-* [The Issue Tracker](https://github.com/mareklibra/cockpit-ovirt/issues)
-* [The Plugin's README.md](https://github.com/mareklibra/cockpit-ovirt/blob/master/README.md) 
+* [Gerrit](https://gerrit.ovirt.org/#/q/project:cockpit-ovirt)
 * [The Cockpit project](http://cockpit-project.org/ )
 
 <Category:Feature>
